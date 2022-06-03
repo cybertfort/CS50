@@ -1,3 +1,6 @@
+// This code will return the exact number of coins a customer will recieve for a given amount of change owed
+// Example: 26 cents would return 2 (1 quarter and 1 penny)
+
 #include <cs50.h>
 #include <stdio.h>
 
